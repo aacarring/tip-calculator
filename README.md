@@ -1,0 +1,1 @@
+With this tip calculator app, you can enter a price and click a button to see your total with an added tip of either 10%, 15%, or 20%. Entering '0' or not entering anything at all will make an alert pop up. This project was made with HTML, CSS, and JS.
